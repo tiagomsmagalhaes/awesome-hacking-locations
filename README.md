@@ -1172,13 +1172,13 @@ Wifi | Power | Address | Open Hours
 
 #### Bop
 
-> Hipster vibes with large record collection, coffee, beer, and tasty bagels.
+> Hipster vibes with large record collection, coffee, beer, burgers and other bar food.
 
 Webpage: https://www.bop.pt
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
+✔ | ✔ | [Rua do Bolhão 121, Porto, Portugal](https://goo.gl/maps/SF5vAV1kWsHmGGrD6) | Tue-Sun 12pm — 12am
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
